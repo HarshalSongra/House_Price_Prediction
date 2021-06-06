@@ -1,0 +1,13 @@
+Model Outputs
+
+1. Descision Tree:
+    Mean :  4.459744753198724
+    Standered Deviation :  1.1750547074858915
+
+2. Linear Regression:
+    Mean :  5.005623155622925
+    Standered Deviation :  1.0444675724531456
+    
+3. Random Forest Regressor:
+    Mean :  3.497355144755821
+    Standered Deviation :  0.7382214058613726
